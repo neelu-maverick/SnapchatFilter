@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "986849063896",
+    "project_id": "eyedetectionapp-3b0d3",
+    "storage_bucket": "eyedetectionapp-3b0d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986849063896:android:b4d7afb3c088f09d5b38ad",
+        "android_client_info": {
+          "package_name": "ca.benwu.kashavify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986849063896-0d076pcno42ua06c0lee74klnnd7hj3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr74rPH4H_zcYPHHqCldfzkKEh0WMr070"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986849063896-0d076pcno42ua06c0lee74klnnd7hj3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986849063896:android:de7ba116d062a49b5b38ad",
+        "android_client_info": {
+          "package_name": "ca.benwu.kashavify.ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986849063896-0d076pcno42ua06c0lee74klnnd7hj3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr74rPH4H_zcYPHHqCldfzkKEh0WMr070"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986849063896-0d076pcno42ua06c0lee74klnnd7hj3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986849063896:android:df4c23de8f79223f5b38ad",
+        "android_client_info": {
+          "package_name": "com.example.eyedetectionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986849063896-0d076pcno42ua06c0lee74klnnd7hj3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr74rPH4H_zcYPHHqCldfzkKEh0WMr070"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986849063896-0d076pcno42ua06c0lee74klnnd7hj3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986849063896:android:ff37be458c786e4c5b38ad",
+        "android_client_info": {
+          "package_name": "com.example.snapchatfilter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986849063896-0d076pcno42ua06c0lee74klnnd7hj3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr74rPH4H_zcYPHHqCldfzkKEh0WMr070"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986849063896-0d076pcno42ua06c0lee74klnnd7hj3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

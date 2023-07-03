@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bear"
+        android:title="Bear"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/cat"
+        android:title="Cat" />
+    <item
+        android:id="@+id/dog"
+        android:title="Dog" />
+
+    <item
+        android:id="@+id/hat"
+        android:title="Hat" />
+    <item
+        android:id="@+id/mask"
+        android:title="Mask" />
+    <item
+        android:id="@+id/glasses1"
+        android:title="Glasses1" />
+    <item
+        android:id="@+id/glasses2"
+        android:title="Glasses2" />
+
+</menu>
